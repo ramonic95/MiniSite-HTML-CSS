@@ -1,0 +1,152 @@
+body {
+width: 960px;
+margin: 20px auto;
+font-family: Verdana, 'Times New Roman', SansSerif;
+font-size: 16px;
+background-color: #c2faff;
+}
+  
+section {
+display: inline-block;
+width: 200px;
+margin-bottom: 8px;
+}
+ 
+aside {
+display: inline-block;
+width: 743px;
+vertical-align: top;
+padding: 0 0 0 8px;
+border-left: solid 1px grey;
+}
+
+.mihajlopupin {
+font-weight: bold;
+font-style: oblique;
+text-align: center;           
+}
+
+ul {
+list-style-type: circle;
+}
+
+.picture1 {
+position: relative;
+left: 250px;
+border: 1px;
+border-radius: 0 40px 0 40px;
+}
+
+.p1 {
+color: #001536;
+text-align: justify;
+text-indent: 50px;
+}
+
+.picture2 {
+position: relative;
+left: 80px;
+border: 1px;
+border-radius: 140px;
+margin-top: 30px;
+text-align: center;	
+}
+
+.mihajlopupin1 {
+display: inline;
+font-weight: bold;
+font-style: italic;
+text-align: justify;           
+}
+
+.bigdiv {
+display: inline-block;
+margin-right: 40px;
+}
+
+.leftone {
+width: 300px;
+position: absolute;
+left: 800px;
+height: 300px;
+overflow: scroll;
+margin-top: 20px;
+}
+
+.rightone {
+width: 300px;
+height: 300px;
+overflow: scroll;
+margin-left: 30px
+}
+
+.lefth3 {
+display: inline;
+width: 300px;
+position: absolute;
+left: 800px;
+height: 300px;
+}
+
+.righth3 {
+display: inline;
+width: 300px;
+height: 300px;
+margin-left: 130px;
+}
+
+
+.bigdivh3 {
+display: inline;
+margin-top: 0px
+}
+
+table {
+font-family: Tahoma, Georgia, SansSerif;
+border-collapse: separate;
+width: 100%;
+margin: 0 auto;
+}
+
+#heading {
+background-color: #002138;
+color: #ffffff;
+}
+
+th {
+padding: 20px;
+}
+
+td {
+padding: 12px;
+}
+
+th,
+td {
+border: solid 1px #00121f
+}
+
+tr {
+background-color: #cce8ff; 
+} 
+
+tr.row {
+background-color: #b5deff;
+}
+
+.picture3 {
+display: block;
+text-align: center;
+}
+
+.mihajlopupin2 {
+font-weight: bold;
+font-style: italic;
+text-align: center;           
+}
+
+
+
+
+
+
